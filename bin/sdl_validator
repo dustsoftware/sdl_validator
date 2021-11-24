@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'sdl_validator'
+
+SDLValidator::Runner.run ARGV
